@@ -1,0 +1,7 @@
+{
+  "coming_soon_days": 7,
+  "popularity_threshold": 50,
+  "max_today": 10,
+  "max_coming_soon": 15,
+  "timezone": "America/Los_Angeles"
+}
