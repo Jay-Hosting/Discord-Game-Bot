@@ -1,0 +1,38 @@
+name: Find Daily Candidates
+
+on:
+  schedule:
+    # 13:00 UTC = 6am Pacific Daylight Time (7am during Pacific Standard Time, Nov-Mar)
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}  # lets you click "Run workflow" in the Actions tab to test on demand
+
+permissions:
+  contents: write  # needed to commit the updated candidates.json back to the repo
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Find candidate games
+        env:
+          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+        run: python find_candidates.py
+
+      - name: Commit updated candidates.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/candidates.json
+          git diff --quiet --cached || git commit -m "Update daily candidates"
+          git push
