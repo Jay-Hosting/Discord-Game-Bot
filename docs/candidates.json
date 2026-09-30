@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-29T18:13:12.826798-07:00",
+  "generated_at": "2026-09-29T18:26:43.606953-07:00",
   "timezone": "America/Los_Angeles",
   "categories": {
     "new_release": [],
-    "coming_soon": [],
+    "coming_soon": [
+      {
+        "id": "coming_soon:steam-5023770",
+        "rawg_id": null,
+        "category": "coming_soon",
+        "name": "Let's Tidy Up! : Treasure",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Oct 2, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5023770/",
+        "added": 9999
+      }
+    ],
     "on_sale": []
   }
 }
