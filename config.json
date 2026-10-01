@@ -1,13 +1,12 @@
 {
-  "coming_soon_days": 30,
-  "popularity_threshold": 5,
-  "max_today": 10,
-  "max_coming_soon": 15,
   "timezone": "America/Los_Angeles",
-  "tags": ["cleaning", "tidy-up", "tidying"],
-  "keywords": ["clean", "wash", "tidy", "organiz", "declutter", "sweep", "scrub", "sort", "mess"],
-  "keyword_scan_pages": 10,
-  "extra_games": ["powerwash-simulator", "unpacking-2", "house-flipper", "house-flipper-2", "viscera-cleanup-detail"],
-  "manual_steam_appids": ["5023770"],
-  "steam_country": "us"
+  "coming_soon_days": 30,
+  "steam_country": "us",
+  "steam_tag_ids": {"Cleaning": 23491},
+  "name_keywords": ["tidy"],
+  "max_new_release": 25,
+  "max_coming_soon": 60,
+  "max_on_sale": 40,
+  "max_pages_per_search": 8,
+  "manual_steam_appids": []
 }
