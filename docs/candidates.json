@@ -1,113 +1,31 @@
 {
-  "generated_at": "2026-11-23T16:31:34.432455-08:00",
+  "generated_at": "2026-11-24T14:52:12.705456-08:00",
   "timezone": "America/Los_Angeles",
   "source": "steam",
   "categories": {
     "new_release": [
       {
-        "id": "new_release:steam-4867840",
+        "id": "new_release:steam-5516980",
         "category": "new_release",
-        "name": "TRONADO",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 23, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/4867840/",
-        "steam_appid": "4867840",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 1000
-      },
-      {
-        "id": "new_release:steam-5548320",
-        "category": "new_release",
-        "name": "Party Home: Tidy Up Together",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 23, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5548320/",
-        "steam_appid": "5548320",
-        "matched_by": [
-          "Steam tag: Cleaning",
-          "Title contains 'tidy'"
-        ],
-        "added": 1000
-      },
-      {
-        "id": "new_release:steam-5179660",
-        "category": "new_release",
-        "name": "Armorer: Tidy Up the Armory Before Dawn",
+        "name": "Tidy Up: Bricks n Blocks",
         "platforms": [
           "PC",
-          "macOS"
-        ],
-        "released": "Nov 23, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5179660/",
-        "steam_appid": "5179660",
-        "matched_by": [
-          "Title contains 'tidy'"
-        ],
-        "added": 1000
-      },
-      {
-        "id": "new_release:steam-5556800",
-        "category": "new_release",
-        "name": "Christmas Market: Tidy Up Together",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 23, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5556800/",
-        "steam_appid": "5556800",
-        "matched_by": [
-          "Title contains 'tidy'"
-        ],
-        "added": 1000
-      }
-    ],
-    "coming_soon": [
-      {
-        "id": "coming_soon:steam-5381360",
-        "category": "coming_soon",
-        "name": "Tool Tidy",
-        "platforms": [
-          "PC"
+          "macOS",
+          "Linux"
         ],
         "released": "Nov 24, 2026",
         "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5381360/",
-        "steam_appid": "5381360",
+        "steam_url": "https://store.steampowered.com/app/5516980/",
+        "steam_appid": "5516980",
         "matched_by": [
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 999
+        "added": 1000
       },
       {
-        "id": "coming_soon:steam-5521080",
-        "category": "coming_soon",
-        "name": "Gotta Catch Bugs!",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 24, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5521080/",
-        "steam_appid": "5521080",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 999
-      },
-      {
-        "id": "coming_soon:steam-5391260",
-        "category": "coming_soon",
+        "id": "new_release:steam-5391260",
+        "category": "new_release",
         "name": "Fish It!: Sort the Aquarium Shop",
         "platforms": [
           "PC",
@@ -121,11 +39,11 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 999
+        "added": 1000
       },
       {
-        "id": "coming_soon:steam-5472080",
-        "category": "coming_soon",
+        "id": "new_release:steam-5472080",
+        "category": "new_release",
         "name": "SHRED A BILLION",
         "platforms": [
           "PC"
@@ -137,24 +55,27 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 999
+        "added": 1000
       },
       {
-        "id": "coming_soon:steam-5565980",
-        "category": "coming_soon",
-        "name": "Moon Base: Tidy Up Together",
+        "id": "new_release:steam-5381360",
+        "category": "new_release",
+        "name": "Tool Tidy",
         "platforms": [
           "PC"
         ],
         "released": "Nov 24, 2026",
         "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5565980/",
-        "steam_appid": "5565980",
+        "steam_url": "https://store.steampowered.com/app/5381360/",
+        "steam_appid": "5381360",
         "matched_by": [
+          "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 999
-      },
+        "added": 1000
+      }
+    ],
+    "coming_soon": [
       {
         "id": "coming_soon:steam-5429590",
         "category": "coming_soon",
@@ -170,7 +91,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 998
+        "added": 999
       },
       {
         "id": "coming_soon:steam-5234330",
@@ -186,7 +107,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 998
+        "added": 999
       },
       {
         "id": "coming_soon:steam-5475470",
@@ -203,7 +124,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 998
+        "added": 999
       },
       {
         "id": "coming_soon:steam-5556190",
@@ -220,7 +141,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 998
+        "added": 999
       },
       {
         "id": "coming_soon:steam-4880720",
@@ -236,7 +157,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 998
+        "added": 999
       },
       {
         "id": "coming_soon:steam-5360050",
@@ -253,7 +174,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5150210",
@@ -270,7 +191,42 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 997
+        "added": 998
+      },
+      {
+        "id": "coming_soon:steam-4640550",
+        "category": "coming_soon",
+        "name": "Street Food Restaurant Owner",
+        "platforms": [
+          "PC",
+          "macOS",
+          "Linux"
+        ],
+        "released": "Nov 26, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/4640550/",
+        "steam_appid": "4640550",
+        "matched_by": [
+          "Steam tag: Cleaning"
+        ],
+        "added": 998
+      },
+      {
+        "id": "coming_soon:steam-5529210",
+        "category": "coming_soon",
+        "name": "Auto Mechanic Tidy Up",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Nov 26, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5529210/",
+        "steam_appid": "5529210",
+        "matched_by": [
+          "Steam tag: Cleaning",
+          "Title contains 'tidy'"
+        ],
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5532870",
@@ -289,42 +245,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 997
-      },
-      {
-        "id": "coming_soon:steam-4640550",
-        "category": "coming_soon",
-        "name": "Street Food Restaurant Owner",
-        "platforms": [
-          "PC",
-          "macOS",
-          "Linux"
-        ],
-        "released": "Nov 26, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/4640550/",
-        "steam_appid": "4640550",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 997
-      },
-      {
-        "id": "coming_soon:steam-5529210",
-        "category": "coming_soon",
-        "name": "Auto Mechanic Tidy Up",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 26, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5529210/",
-        "steam_appid": "5529210",
-        "matched_by": [
-          "Steam tag: Cleaning",
-          "Title contains 'tidy'"
-        ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5463290",
@@ -340,7 +261,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-4253570",
@@ -356,7 +277,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5445800",
@@ -372,7 +293,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5458820",
@@ -388,7 +309,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5304930",
@@ -404,7 +325,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 997
+        "added": 998
       },
       {
         "id": "coming_soon:steam-5329820",
@@ -421,7 +342,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5490820",
@@ -437,7 +358,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5066090",
@@ -453,7 +374,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5151340",
@@ -469,7 +390,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5140770",
@@ -486,7 +407,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5214320",
@@ -502,7 +423,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5451610",
@@ -518,7 +439,7 @@
         "matched_by": [
           "Title contains 'tidy'"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5304760",
@@ -534,7 +455,7 @@
         "matched_by": [
           "Title contains 'tidy'"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5586550",
@@ -550,7 +471,7 @@
         "matched_by": [
           "Title contains 'tidy'"
         ],
-        "added": 996
+        "added": 997
       },
       {
         "id": "coming_soon:steam-5542070",
@@ -568,7 +489,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 993
+        "added": 994
       },
       {
         "id": "coming_soon:steam-4806670",
@@ -584,7 +505,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 993
+        "added": 994
       },
       {
         "id": "coming_soon:steam-5409420",
@@ -600,7 +521,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 993
+        "added": 994
       },
       {
         "id": "coming_soon:steam-4768470",
@@ -617,7 +538,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 993
+        "added": 994
       },
       {
         "id": "coming_soon:steam-5088590",
@@ -633,7 +554,7 @@
         "matched_by": [
           "Title contains 'tidy'"
         ],
-        "added": 993
+        "added": 994
       },
       {
         "id": "coming_soon:steam-5236290",
@@ -649,7 +570,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-5279840",
@@ -666,7 +587,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-1225770",
@@ -683,7 +604,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-5592710",
@@ -699,7 +620,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-5061290",
@@ -715,7 +636,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-5328400",
@@ -732,7 +653,7 @@
         "matched_by": [
           "Title contains 'tidy'"
         ],
-        "added": 992
+        "added": 993
       },
       {
         "id": "coming_soon:steam-5395890",
@@ -748,7 +669,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-5326080",
@@ -765,7 +686,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-4868390",
@@ -781,7 +702,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-5519530",
@@ -797,7 +718,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-5405420",
@@ -814,7 +735,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-5506380",
@@ -831,7 +752,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 991
+        "added": 992
       },
       {
         "id": "coming_soon:steam-4982840",
@@ -846,6 +767,23 @@
         "steam_appid": "4982840",
         "matched_by": [
           "Title contains 'tidy'"
+        ],
+        "added": 992
+      },
+      {
+        "id": "coming_soon:steam-5152560",
+        "category": "coming_soon",
+        "name": "Quadrillion Carrots",
+        "platforms": [
+          "PC",
+          "Linux"
+        ],
+        "released": "Dec 3, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5152560/",
+        "steam_appid": "5152560",
+        "matched_by": [
+          "Steam tag: Cleaning"
         ],
         "added": 991
       },
@@ -864,24 +802,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 990
-      },
-      {
-        "id": "coming_soon:steam-5152560",
-        "category": "coming_soon",
-        "name": "Quadrillion Carrots",
-        "platforms": [
-          "PC",
-          "Linux"
-        ],
-        "released": "Dec 3, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5152560/",
-        "steam_appid": "5152560",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 990
+        "added": 991
       },
       {
         "id": "coming_soon:steam-5224820",
@@ -898,7 +819,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 990
+        "added": 991
       },
       {
         "id": "coming_soon:steam-5527960",
@@ -915,7 +836,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 990
+        "added": 991
       },
       {
         "id": "coming_soon:steam-5491610",
@@ -932,7 +853,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 990
+        "added": 991
       },
       {
         "id": "coming_soon:steam-5568040",
@@ -949,7 +870,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5582130",
@@ -966,7 +887,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5137230",
@@ -982,7 +903,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5494980",
@@ -999,7 +920,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5020760",
@@ -1016,7 +937,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5446500",
@@ -1032,7 +953,7 @@
         "matched_by": [
           "Steam tag: Cleaning"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5123310",
@@ -1049,7 +970,7 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 989
+        "added": 990
       },
       {
         "id": "coming_soon:steam-5320000",
@@ -1068,7 +989,91 @@
           "Steam tag: Cleaning",
           "Title contains 'tidy'"
         ],
-        "added": 989
+        "added": 990
+      },
+      {
+        "id": "coming_soon:steam-5251600",
+        "category": "coming_soon",
+        "name": "Fish on the Floor",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Dec 4, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5251600/",
+        "steam_appid": "5251600",
+        "matched_by": [
+          "Steam tag: Cleaning"
+        ],
+        "added": 990
+      },
+      {
+        "id": "coming_soon:steam-5437620",
+        "category": "coming_soon",
+        "name": "Video Game Store: Tidy Up",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Dec 4, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5437620/",
+        "steam_appid": "5437620",
+        "matched_by": [
+          "Steam tag: Cleaning",
+          "Title contains 'tidy'"
+        ],
+        "added": 990
+      },
+      {
+        "id": "coming_soon:steam-5494450",
+        "category": "coming_soon",
+        "name": "Lets Bail",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Dec 4, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5494450/",
+        "steam_appid": "5494450",
+        "matched_by": [
+          "Steam tag: Cleaning"
+        ],
+        "added": 990
+      },
+      {
+        "id": "coming_soon:steam-5011450",
+        "category": "coming_soon",
+        "name": "Check Please!",
+        "platforms": [
+          "PC",
+          "macOS",
+          "Linux"
+        ],
+        "released": "Dec 4, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5011450/",
+        "steam_appid": "5011450",
+        "matched_by": [
+          "Steam tag: Cleaning"
+        ],
+        "added": 990
+      },
+      {
+        "id": "coming_soon:steam-4914230",
+        "category": "coming_soon",
+        "name": "A Tidy Konbini",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Dec 4, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/4914230/",
+        "steam_appid": "4914230",
+        "matched_by": [
+          "Steam tag: Cleaning",
+          "Title contains 'tidy'"
+        ],
+        "added": 990
       }
     ],
     "on_sale": [
@@ -1111,25 +1116,6 @@
         "final_formatted": "$0.99"
       },
       {
-        "id": "on_sale:steam-4288050",
-        "category": "on_sale",
-        "name": "House Tidy",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Jan 20, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/4288050/",
-        "steam_appid": "4288050",
-        "matched_by": [
-          "Title contains 'tidy'"
-        ],
-        "added": 80,
-        "discount_percent": 80,
-        "initial_formatted": "$3.99",
-        "final_formatted": "$0.79"
-      },
-      {
         "id": "on_sale:steam-4452690",
         "category": "on_sale",
         "name": "House Tidy 2",
@@ -1147,6 +1133,25 @@
         "discount_percent": 80,
         "initial_formatted": "$4.99",
         "final_formatted": "$0.99"
+      },
+      {
+        "id": "on_sale:steam-4288050",
+        "category": "on_sale",
+        "name": "House Tidy",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Jan 20, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/4288050/",
+        "steam_appid": "4288050",
+        "matched_by": [
+          "Title contains 'tidy'"
+        ],
+        "added": 80,
+        "discount_percent": 80,
+        "initial_formatted": "$3.99",
+        "final_formatted": "$0.79"
       },
       {
         "id": "on_sale:steam-2230960",
@@ -1362,25 +1367,6 @@
         "final_formatted": "$1.79"
       },
       {
-        "id": "on_sale:steam-5531490",
-        "category": "on_sale",
-        "name": "Clean vs. Dirty!",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 17, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5531490/",
-        "steam_appid": "5531490",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 40,
-        "discount_percent": 40,
-        "initial_formatted": "$4.99",
-        "final_formatted": "$2.99"
-      },
-      {
         "id": "on_sale:steam-5424270",
         "category": "on_sale",
         "name": "Tidy Up: Street Market",
@@ -1401,23 +1387,26 @@
         "final_formatted": "$2.39"
       },
       {
-        "id": "on_sale:steam-5236060",
+        "id": "on_sale:steam-5516980",
         "category": "on_sale",
-        "name": "Hazmat Simulator",
+        "name": "Tidy Up: Bricks n Blocks",
         "platforms": [
-          "PC"
+          "PC",
+          "macOS",
+          "Linux"
         ],
-        "released": "Oct 8, 2026",
+        "released": "Nov 24, 2026",
         "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5236060/",
-        "steam_appid": "5236060",
+        "steam_url": "https://store.steampowered.com/app/5516980/",
+        "steam_appid": "5516980",
         "matched_by": [
-          "Steam tag: Cleaning"
+          "Steam tag: Cleaning",
+          "Title contains 'tidy'"
         ],
-        "added": 38,
-        "discount_percent": 38,
-        "initial_formatted": "$7.99",
-        "final_formatted": "$4.95"
+        "added": 35,
+        "discount_percent": 35,
+        "initial_formatted": "$4.99",
+        "final_formatted": "$3.24"
       },
       {
         "id": "on_sale:steam-5188400",
@@ -1615,6 +1604,25 @@
         "final_formatted": "$4.89"
       },
       {
+        "id": "on_sale:steam-5177020",
+        "category": "on_sale",
+        "name": "Tidy Up: Electronic Store Simulator",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Nov 11, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5177020/",
+        "steam_appid": "5177020",
+        "matched_by": [
+          "Title contains 'tidy'"
+        ],
+        "added": 30,
+        "discount_percent": 30,
+        "initial_formatted": "$3.99",
+        "final_formatted": "$2.79"
+      },
+      {
         "id": "on_sale:steam-5444160",
         "category": "on_sale",
         "name": "Fairy Keykeepers: Tidy Up Together",
@@ -1627,25 +1635,6 @@
         "rawg_url": null,
         "steam_url": "https://store.steampowered.com/app/5444160/",
         "steam_appid": "5444160",
-        "matched_by": [
-          "Title contains 'tidy'"
-        ],
-        "added": 30,
-        "discount_percent": 30,
-        "initial_formatted": "$3.99",
-        "final_formatted": "$2.79"
-      },
-      {
-        "id": "on_sale:steam-5177020",
-        "category": "on_sale",
-        "name": "Tidy Up: Electronic Store Simulator",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Nov 11, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5177020/",
-        "steam_appid": "5177020",
         "matched_by": [
           "Title contains 'tidy'"
         ],
@@ -1732,25 +1721,6 @@
         "final_formatted": "$14.99"
       },
       {
-        "id": "on_sale:steam-3119540",
-        "category": "on_sale",
-        "name": "Scriptorium: Master of Manuscripts",
-        "platforms": [
-          "PC"
-        ],
-        "released": "Apr 16, 2026",
-        "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/3119540/",
-        "steam_appid": "3119540",
-        "matched_by": [
-          "Steam tag: Cleaning"
-        ],
-        "added": 25,
-        "discount_percent": 25,
-        "initial_formatted": "$14.99",
-        "final_formatted": "$11.24"
-      },
-      {
         "id": "on_sale:steam-3232690",
         "category": "on_sale",
         "name": "Maid Cafe Simulator",
@@ -1771,23 +1741,23 @@
         "final_formatted": "$17.99"
       },
       {
-        "id": "on_sale:steam-4101480",
+        "id": "on_sale:steam-3119540",
         "category": "on_sale",
-        "name": "The Christmas Bakeshop",
+        "name": "Scriptorium: Master of Manuscripts",
         "platforms": [
           "PC"
         ],
-        "released": "Nov 16, 2026",
+        "released": "Apr 16, 2026",
         "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/4101480/",
-        "steam_appid": "4101480",
+        "steam_url": "https://store.steampowered.com/app/3119540/",
+        "steam_appid": "3119540",
         "matched_by": [
           "Steam tag: Cleaning"
         ],
         "added": 25,
         "discount_percent": 25,
-        "initial_formatted": "$15.99",
-        "final_formatted": "$11.99"
+        "initial_formatted": "$14.99",
+        "final_formatted": "$11.24"
       },
       {
         "id": "on_sale:steam-3557530",
@@ -1809,23 +1779,23 @@
         "final_formatted": "$9.74"
       },
       {
-        "id": "on_sale:steam-5125590",
+        "id": "on_sale:steam-4101480",
         "category": "on_sale",
-        "name": "Shelved",
+        "name": "The Christmas Bakeshop",
         "platforms": [
           "PC"
         ],
-        "released": "Oct 7, 2026",
+        "released": "Nov 16, 2026",
         "rawg_url": null,
-        "steam_url": "https://store.steampowered.com/app/5125590/",
-        "steam_appid": "5125590",
+        "steam_url": "https://store.steampowered.com/app/4101480/",
+        "steam_appid": "4101480",
         "matched_by": [
           "Steam tag: Cleaning"
         ],
         "added": 25,
         "discount_percent": 25,
-        "initial_formatted": "$5.99",
-        "final_formatted": "$4.49"
+        "initial_formatted": "$15.99",
+        "final_formatted": "$11.99"
       },
       {
         "id": "on_sale:steam-5430620",
@@ -1846,6 +1816,46 @@
         "discount_percent": 25,
         "initial_formatted": "$3.99",
         "final_formatted": "$2.99"
+      },
+      {
+        "id": "on_sale:steam-5490940",
+        "category": "on_sale",
+        "name": "Bank Vault: Tidy Up Together",
+        "platforms": [
+          "PC"
+        ],
+        "released": "Nov 18, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5490940/",
+        "steam_appid": "5490940",
+        "matched_by": [
+          "Steam tag: Cleaning",
+          "Title contains 'tidy'"
+        ],
+        "added": 25,
+        "discount_percent": 25,
+        "initial_formatted": "$5.99",
+        "final_formatted": "$4.49"
+      },
+      {
+        "id": "on_sale:steam-5421590",
+        "category": "on_sale",
+        "name": "Gnome Nook",
+        "platforms": [
+          "PC",
+          "Linux"
+        ],
+        "released": "Nov 16, 2026",
+        "rawg_url": null,
+        "steam_url": "https://store.steampowered.com/app/5421590/",
+        "steam_appid": "5421590",
+        "matched_by": [
+          "Steam tag: Cleaning"
+        ],
+        "added": 25,
+        "discount_percent": 25,
+        "initial_formatted": "$4.99",
+        "final_formatted": "$3.74"
       }
     ]
   }
